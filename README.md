@@ -1,2 +1,6 @@
-Trevor Aweida.....
-An edit on this pull request by Trevor! - Spencer
+Project Team Members: 
+
+Trevor Aweida
+Isabella Barbieri
+Spencer Stepanek
+Luke Pan
