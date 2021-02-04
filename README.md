@@ -1,6 +1,4 @@
 <<<<<<< HEAD
-Trevor Aweida (Changed again)
-=======
 Project Team Members: 
 
 Trevor Aweida
