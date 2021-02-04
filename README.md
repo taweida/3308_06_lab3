@@ -1,7 +1,7 @@
-Project Team Members: 
+Project Team: 
 
 Trevor Aweida
 Isabella Barbieri
 Spencer Stepanek
 Luke Pan
-Dylan Ginsberg
+Dylan Ginsberg1
