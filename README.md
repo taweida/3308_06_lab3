@@ -1,1 +1,2 @@
 Trevor Aweida
+Isabella Barbieri
