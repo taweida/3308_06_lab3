@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 Project Team Members: 
 
-Trevor Aweida
+Trevor J Aweida
 Isabella Barbieri
 Spencer Stepanek
 Luke Pan
